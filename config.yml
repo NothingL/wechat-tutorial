@@ -1,5 +1,5 @@
 wechat_id: we-chat-tutorial #replace this with your wechat id
-help_message: your help message
+help_message: 泡面泡面！
 welcome_message:
   title: 微信公众账户开发指南
   picture: https://mp.weixin.qq.com/cgi-bin/getheadimg?fakeid=3097029212&r=975188&token=1685872554
